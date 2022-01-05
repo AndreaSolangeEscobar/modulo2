@@ -1,0 +1,14 @@
+h2{ text-transform: uppercase;
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+p{
+    font-size: 30px;
+}
+
+
+.blue{
+    background-color: blue;
+    color: white;
+}
